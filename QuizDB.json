@@ -1,0 +1,790 @@
+{
+    "celebrities": [
+      {
+        "Name": "Nick Jones",
+        "pool": "free"
+      },
+      {
+        "Name": "Justin Beiber",
+        "pool": "free"
+      },
+      {
+        "Name": "Eminem",
+        "pool": "free"
+      },
+      {
+        "Name": "Akon",
+        "pool": "free"
+      },
+      {
+        "Name": "Meghan Markle",
+        "pool": "free"
+      },
+      {
+        "Name": "Stan Lee",
+        "pool": "free"
+      },
+      {
+        "Name": "Salman Khan",
+        "pool": "free"
+      },
+      {
+        "Name": "Akshay Kumar",
+        "pool": "free"
+      },
+      {
+        "Name": "Deepika Padukone",
+        "pool": "free"
+      },
+      {
+        "Name": "Aamir Khan",
+        "pool": "free"
+      },
+      {
+        "Name": "Amitabh Bachchan",
+        "pool": "free"
+      },
+      {
+        "Name": "Ranveer Singh",
+        "pool": "free"
+      },
+      {
+        "Name": "Hrithik Roshan",
+        "pool": "free"
+      },
+      {
+        "Name": "Shah Rukh Khan",
+        "pool": "free"
+      },
+      {
+        "Name": "Rajinikanth",
+        "pool": "free"
+      },
+      {
+        "Name": "Madhuri Dixit",
+        "pool": "free"
+      },
+      {
+        "Name": "Taapsee Pannu",
+        "pool": "free"
+      },
+      {
+        "Name": "Prabhu Deva",
+        "pool": "free"
+      },
+      {
+        "Name": "Sanjay Dutt",
+        "pool": "free"
+      },
+      {
+        "Name": "Manisha Koirala",
+        "pool": "free"
+      },
+      {
+        "Name": "Prabhas",
+        "pool": "free"
+      },
+      {
+        "Name": "Rana Daggubati",
+        "pool": "free"
+      },
+      {
+        "Name": "Amitabh Bachchan",
+        "pool": "free"
+      },
+      {
+        "Name": "Kangana Ranaut",
+        "pool": "free"
+      }
+    ],
+    "Indian Musicians": [
+      {
+        "Name": "Devi Sri Prasathh",
+        "pool": "free"
+      },
+      {
+        "Name": "A.R Rahman",
+        "pool": "free"
+      },
+      {
+        "Name": "Lata Mangeshkar",
+        "pool": "free"
+      },
+      {
+        "Name": "Shreya Goshhal",
+        "pool": "free"
+      },
+      {
+        "Name": "udit Narayanan",
+        "pool": "free"
+      },
+      {
+        "Name": "Ilayaraja",
+        "pool": "free"
+      },
+      {
+        "Name": "harihharan",
+        "pool": "free"
+      },
+      {
+        "Name": "SPB",
+        "pool": "free"
+      },
+      {
+        "Name": "Sakthi Sree Gopalan",
+        "pool": "free"
+      },
+      {
+        "Name": "Sid Sriram",
+        "pool": "free"
+      },
+      {
+        "Name": "Benny Dayal",
+        "pool": "free"
+      },
+      {
+        "Name": "Chitra",
+        "pool": "free"
+      },
+      {
+        "Name": "Janaki",
+        "pool": "free"
+      },
+      {
+        "Name": "Naresh Iyer",
+        "pool": "free"
+      },
+      {
+        "Name": "KJ Yesudas",
+        "pool": "free"
+      },
+      {
+        "Name": "Shankar mahadevan",
+        "pool": "free"
+      },
+      {
+        "Name": "Usha Uthup",
+        "pool": "free"
+      },
+      {
+        "Name": "Zakir hussain",
+        "pool": "free"
+      },
+      {
+        "Name": "R. D. Burman",
+        "pool": "free"
+      },
+      {
+        "Name": "P. Susheela",
+        "pool": "free"
+      },
+      {
+        "Name": "Bomba Jayashhree",
+        "pool": "free"
+      },
+      {
+        "Name": "Keeravaani",
+        "pool": "free"
+      },
+      {
+        "Name": "Blaaze",
+        "pool": "free"
+      },
+      {
+        "Name": "Ravi Shankar",
+        "pool": "free"
+      }
+    ],
+    "Movie Names": [
+      {
+        "Name": "Dangal",
+        "pool": "free"
+      },
+      {
+        "Name": "Coco",
+        "pool": "free"
+      },
+      {
+        "Name": "THE BOSS BABY",
+        "pool": "free"
+      },
+      {
+        "Name": "DUNKIRK",
+        "pool": "free"
+      },
+      {
+        "Name": "BEAUTY AND THE BEAST",
+        "pool": "free"
+      },
+      {
+        "Name": "WONDER WOMAN",
+        "pool": "free"
+      },
+      {
+        "Name": "Life Of Pi",
+        "pool": "free"
+      },
+      {
+        "Name": "Interstellar",
+        "pool": "free"
+      },
+      {
+        "Name": "Venom",
+        "pool": "free"
+      },
+      {
+        "Name": "HellBoy",
+        "pool": "free"
+      },
+      {
+        "Name": "Aquaman",
+        "pool": "free"
+      },
+      {
+        "Name": "Hang over",
+        "pool": "free"
+      },
+      {
+        "Name": "Inception",
+        "pool": "free"
+      },
+      {
+        "Name": "The Terminal",
+        "pool": "free"
+      },
+      {
+        "Name": "Shutter Island",
+        "pool": "free"
+      },
+      {
+        "Name": "Wolf of Wall Street",
+        "pool": "free"
+      },
+      {
+        "Name": "Money ball",
+        "pool": "free"
+      },
+      {
+        "Name": "Troy",
+        "pool": "free"
+      },
+      {
+        "Name": "The Curious Case of Benjamin Button",
+        "pool": "free"
+      },
+      {
+        "Name": "Now you see me",
+        "pool": "free"
+      },
+      {
+        "Name": "Pulp Fiction",
+        "pool": "free"
+      },
+      {
+        "Name": "Real Steal",
+        "pool": "free"
+      },
+      {
+        "Name": "La La land",
+        "pool": "free"
+      },
+      {
+        "Name": "Lion",
+        "pool": "free"
+      }
+    ],
+    "Technical personalities": [
+      {
+        "Name": "Dennis Ritchie",
+        "pool": "free"
+      },
+      {
+        "Name": "Ken Thompson",
+        "pool": "free"
+      },
+      {
+        "Name": "Steve Jobs",
+        "pool": "free"
+      },
+      {
+        "Name": "Elon Musk",
+        "pool": "free"
+      },
+      {
+        "Name": "Alan Turing",
+        "pool": "free"
+      },
+      {
+        "Name": "Linus Torvalds",
+        "pool": "free"
+      },
+      {
+        "Name": "James Gosling",
+        "pool": "free"
+      },
+      {
+        "Name": "Edsger W. Dijkstra",
+        "pool": "free"
+      },
+      {
+        "Name": "Charles Babbage",
+        "pool": "free"
+      },
+      {
+        "Name": "Larry Page",
+        "pool": "free"
+      },
+      {
+        "Name": "Larry Ellison",
+        "pool": "free"
+      },
+      {
+        "Name": "Richard Branson",
+        "pool": "free"
+      },
+      {
+        "Name": "Andy Rubin",
+        "pool": "free"
+      },
+      {
+        "Name": "Bjarne Stroustrup",
+        "pool": "free"
+      },
+      {
+        "Name": "Jack ma",
+        "pool": "free"
+      },
+      {
+        "Name": "Nikola Tesla",
+        "pool": "free"
+      },
+      {
+        "Name": "Edison",
+        "pool": "free"
+      },
+      {
+        "Name": "Philip Don Estridge",
+        "pool": "free"
+      },
+      {
+        "Name": "Tim Berners-Lee",
+        "pool": "free"
+      },
+      {
+        "Name": "Travis Kalanick",
+        "pool": "free"
+      },
+      {
+        "Name": "Mark Zuckerberg",
+        "pool": "free"
+      },
+      {
+        "Name": "Jeff Bezos",
+        "pool": "free"
+      },
+      {
+        "Name": "Einstein",
+        "pool": "free"
+      },
+      {
+        "Name": "Edwin Hubble",
+        "pool": "free"
+      }
+    ],
+    "Indian Personalities": [
+      {
+        "Name": "Arnab",
+        "pool": "free"
+      },
+      {
+        "Name": "Mukesh Ambani",
+        "pool": "free"
+      },
+      {
+        "Name": "Azim Premji",
+        "pool": "free"
+      },
+      {
+        "Name": "Ratan Tata",
+        "pool": "free"
+      },
+      {
+        "Name": "Kailash Satyarthi",
+        "pool": "free"
+      },
+      {
+        "Name": "Baba Ramdev",
+        "pool": "free"
+      },
+      {
+        "Name": "Chetan Bhagat",
+        "pool": "free"
+      },
+      {
+        "Name": "Binny Bansal",
+        "pool": "free"
+      },
+      {
+        "Name": "Raghuram Rajan",
+        "pool": "free"
+      },
+      {
+        "Name": "Satya Nadella",
+        "pool": "free"
+      },
+      {
+        "Name": "Sunil Bharti Mittal",
+        "pool": "free"
+      },
+      {
+        "Name": "Shakuntala Devi",
+        "pool": "free"
+      },
+      {
+        "Name": "Rabindranath Tagore",
+        "pool": "free"
+      },
+      {
+        "Name": "Subramania Bharati",
+        "pool": "free"
+      },
+      {
+        "Name": "Srinivasa Ramanujan",
+        "pool": "free"
+      },
+      {
+        "Name": "C.V.Raman",
+        "pool": "free"
+      },
+      {
+        "Name": "Swami Vivekananda",
+        "pool": "free"
+      },
+      {
+        "Name": "Dr.Abdul Kalam",
+        "pool": "free"
+      },
+      {
+        "Name": "Ruskin Bond",
+        "pool": "free"
+      },
+      {
+        "Name": "Anna Hazare",
+        "pool": "free"
+      },
+      {
+        "Name": "Sarojini Naidu",
+        "pool": "free"
+      },
+      {
+        "Name": "Dr S. Radhakrishnan",
+        "pool": "free"
+      },
+      {
+        "Name": "Indira Gandhi",
+        "pool": "free"
+      },
+      {
+        "Name": "Rakesh Sharma",
+        "pool": "free"
+      }
+    ],
+    "Cities": [
+      {
+        "Name": "Kuala Lumpur",
+        "pool": "free"
+      },
+      {
+        "Name": "Tokyo",
+        "pool": "free"
+      },
+      {
+        "Name": "Barcelona",
+        "pool": "free"
+      },
+      {
+        "Name": "Las vegas",
+        "pool": "free"
+      },
+      {
+        "Name": "Berlin",
+        "pool": "free"
+      },
+      {
+        "Name": "Hong Kong",
+        "pool": "free"
+      },
+      {
+        "Name": "Bali",
+        "pool": "free"
+      },
+      {
+        "Name": "Jerusalem",
+        "pool": "free"
+      },
+      {
+        "Name": "Munich",
+        "pool": "free"
+      },
+      {
+        "Name": "Sydney",
+        "pool": "free"
+      },
+      {
+        "Name": "Mysuru",
+        "pool": "free"
+      },
+      {
+        "Name": "Frankfurt",
+        "pool": "free"
+      },
+      {
+        "Name": "Seoul",
+        "pool": "free"
+      },
+      {
+        "Name": "Makkah",
+        "pool": "free"
+      },
+      {
+        "Name": "Venice",
+        "pool": "free"
+      },
+      {
+        "Name": "Paris",
+        "pool": "free"
+      },
+      {
+        "Name": "New York",
+        "pool": "free"
+      },
+      {
+        "Name": "Singapore",
+        "pool": "free"
+      },
+      {
+        "Name": "Bangkok",
+        "pool": "free"
+      },
+      {
+        "Name": "Beijing",
+        "pool": "free"
+      },
+      {
+        "Name": "Johannesburg",
+        "pool": "free"
+      },
+      {
+        "Name": "Jaipur",
+        "pool": "free"
+      },
+      {
+        "Name": "Varanasi",
+        "pool": "free"
+      },
+      {
+        "Name": "Amristar",
+        "pool": "free"
+      }
+    ],
+    "Fictional Characters": [
+      {
+        "Name": "Harry Potter - Hermione Granger",
+        "pool": "free"
+      },
+      {
+        "Name": "Harry Potter - Ron Weasley",
+        "pool": "free"
+      },
+      {
+        "Name": "Harry Potter - Albus Dumbledore",
+        "pool": "free"
+      },
+      {
+        "Name": "Game of Thrones - Tyrion Lannister",
+        "pool": "free"
+      },
+      {
+        "Name": "Game of Thrones - Joffrey Baratheon",
+        "pool": "free"
+      },
+      {
+        "Name": "How to train your dragon - Hiccup",
+        "pool": "free"
+      },
+      {
+        "Name": "Angels and Deamons - Robert Langdon",
+        "pool": "free"
+      },
+      {
+        "Name": "Lion King - Zazu",
+        "pool": "free"
+      },
+      {
+        "Name": "Lion King - Scar",
+        "pool": "free"
+      },
+      {
+        "Name": "John Wick - John Wick",
+        "pool": "free"
+      },
+      {
+        "Name": "Transformers - Optimus Prime",
+        "pool": "free"
+      },
+      {
+        "Name": "Gladiator - Maximus",
+        "pool": "free"
+      },
+      {
+        "Name": "Misson Impossible - Ethan Hunt",
+        "pool": "free"
+      },
+      {
+        "Name": "Batman - Bane",
+        "pool": "free"
+      },
+      {
+        "Name": "Guardian of Galaxies - Star-Lord",
+        "pool": "free"
+      },
+      {
+        "Name": "Batman - Batman",
+        "pool": "free"
+      },
+      {
+        "Name": "Batman - Joker",
+        "pool": "free"
+      },
+      {
+        "Name": "Thor - Loki",
+        "pool": "free"
+      },
+      {
+        "Name": "Pirates of the carribean - Captain Jack Sparrow",
+        "pool": "free"
+      },
+      {
+        "Name": "Guardians of Galaxies - Groot",
+        "pool": "free"
+      },
+      {
+        "Name": "Madagascar - Alex Lion",
+        "pool": "free"
+      },
+      {
+        "Name": "Avengers - Doctor Strange",
+        "pool": "free"
+      },
+      {
+        "Name": "Avengers - Nick Fury",
+        "pool": "used"
+      },
+      {
+        "Name": "Avengers - Thanos",
+        "pool": "free"
+      },
+      {
+        "Name": "Frozen - ElSa",
+        "pool": "free"
+      }
+    ],
+    "Sports Personalities": [
+      {
+        "Name": "Rafel Nadal",
+        "pool": "free"
+      },
+      {
+        "Name": "Sebastian Vettel",
+        "pool": "free"
+      },
+      {
+        "Name": "Cristiano Ronaldo",
+        "pool": "free"
+      },
+      {
+        "Name": "Tiger Woods",
+        "pool": "free"
+      },
+      {
+        "Name": "Serena Williams",
+        "pool": "free"
+      },
+      {
+        "Name": "Mary Kom",
+        "pool": "free"
+      },
+      {
+        "Name": "Mahesh Boopathi",
+        "pool": "free"
+      },
+      {
+        "Name": "Vijender Singh",
+        "pool": "free"
+      },
+      {
+        "Name": "Rahul Choudri",
+        "pool": "free"
+      },
+      {
+        "Name": "kidambi srikanth",
+        "pool": "free"
+      },
+      {
+        "Name": "Roger Federer",
+        "pool": "free"
+      },
+      {
+        "Name": "Abhinav Bindra ",
+        "pool": "free"
+      },
+      {
+        "Name": "David Beckham",
+        "pool": "free"
+      },
+      {
+        "Name": "Michael Schumacher ",
+        "pool": "free"
+      },
+      {
+        "Name": "Saniya Mirza",
+        "pool": "free"
+      },
+      {
+        "Name": "Narain Karthikeyan",
+        "pool": "free"
+      },
+      {
+        "Name": "Mohammad Kaif",
+        "pool": "free"
+      },
+      {
+        "Name": "Aakash Chopra",
+        "pool": "free"
+      },
+      {
+        "Name": "Ajit Agarkar",
+        "pool": "free"
+      },
+      {
+        "Name": "Hemang Badani",
+        "pool": "free"
+      },
+      {
+        "Name": "Sadagopan Ramesh",
+        "pool": "free"
+      },
+      {
+        "Name": "Robin Singh",
+        "pool": "free"
+      },
+      {
+        "Name": "Sanjay Bangar",
+        "pool": "free"
+      },
+      {
+        "Name": "Leander paes",
+        "pool": "free"
+      }
+    ]
+  }
