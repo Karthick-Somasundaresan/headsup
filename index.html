@@ -5,9 +5,15 @@
     <title>Hello World!</title>
   </head>
   <body>
-    <h1>Hello World!</h1>
-    We are using node <script>document.write(process.versions.node)</script>,
-    Chrome <script>document.write(process.versions.chrome)</script>,
-    and Electron <script>document.write(process.versions.electron)</script>.
+      <div id="team_scores">
+          <table id="score_table">
+          </table>
+      </div>
+      <div id="create_team">
+          <p class="pteam_name">Team Name:</p>
+          <input name="team_name" id="team_name">
+          <Button id="btnTeamName"> Start Game</Button>
+      </div>
+      <script src="index.js"></script>
   </body>
 </html>

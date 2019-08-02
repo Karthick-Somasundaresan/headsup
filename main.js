@@ -1,5 +1,5 @@
 const { app, BrowserWindow } = require('electron')
-
+const ipc = require('electron').ipcMain
 // Keep a global reference of the window object, if you don't, the window will
 // be closed automatically when the JavaScript object is garbage collected.
 let win
@@ -18,7 +18,7 @@ function createWindow () {
   win.loadFile('index.html')
 
   // Open the DevTools.
-  //win.webContents.openDevTools()
+  win.webContents.openDevTools()
 
   // Emitted when the window is closed.
   win.on('closed', () => {
@@ -27,6 +27,7 @@ function createWindow () {
     // when you should delete the corresponding element.
     win = null
   })
+  console.log("App is ready")
 }
 
 // This method will be called when Electron has finished
