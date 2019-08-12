@@ -28,6 +28,7 @@ function getQuizObj() {
         quizObj[genre] = {}
         quizObj[genre] = allocateRandomElement(genre)
         quizObj[genre]["status"] = "unanswered"
+        quizObj[genre]["passround"] = 0
     }
     return quizObj
 }
