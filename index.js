@@ -15,7 +15,7 @@ teamSubButton.addEventListener('click', function(event){
         nodeIntegration: true
       }})
     win.on('close', function() { win = null })
-    // win.webContents.openDevTools()
+    win.webContents.openDevTools()
     win.loadURL(modalPath)
     win.show()
     console.log("sending teamname:", teamname.value)

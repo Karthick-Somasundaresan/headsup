@@ -13,6 +13,7 @@ const finishButton = document.getElementById("fnshBtn")
 const closeButton = document.getElementById("clseBtn")
 var teamLabel = document.getElementById("teamname")
 var answerArea = document.getElementById("answered_area")
+var gameTimer
 
 function displayAllAnsweredElements(teamName){
     var answeredElements = teamQuiz.getAllAnsweredElements(teamName)
@@ -37,8 +38,7 @@ function getNextQuizElement(currentStatus){
     // var quizElement = teamQuiz.getNextElement(teamName, dispElement, currentStatus)
     // updateQuizElement(quizElement)
 }
-
-finishButton.addEventListener('click', function(){
+function showResult() {
     var teamName = teamLabel.innerHTML
     displayAllAnsweredElements(teamName)
     passButton.hidden = true
@@ -46,7 +46,8 @@ finishButton.addEventListener('click', function(){
     finishButton.hidden = true
     document.getElementById('display_word').hidden = true
     closeButton.hidden = false
-})
+}
+finishButton.addEventListener('click', showResult)
 
 closeButton.addEventListener('click', function(){
     teamName = teamLabel.innerHTML
@@ -72,6 +73,32 @@ function updateQuizElement(quizElement){
     var dispElement = document.getElementById("display_word")
     dispElement.value= quizElement
 }
+
+function updateGameTimer(){
+    timerObj = document.getElementById('timer_area')
+    var currentVal = 90
+    if (timerObj.hidden !== true){
+        console.log("Timer Obje:", timerObj.innerText)
+        currentVal = parseInt(timerObj.innerText, 10)
+        console.log("CurrentVal:", currentVal)
+        currentVal -= 1
+    } else {
+        timerObj.hidden = false
+    }
+    if (currentVal === 0) {
+        currentVal = "Times UP!!!"
+        console.log("Clearing the timer!!!")
+        clearInterval(gameTimer)
+        showResult()
+    }
+    console.log(currentVal)
+    timerObj.innerHTML = currentVal
+
+}
+function startTimer(){
+    gameTimer = setInterval(updateGameTimer, 1000)
+}
+
 function startGame() {
     console.log("Creating team: ", teamLabel.innerHTML)
     var teamName = teamLabel.innerHTML
@@ -80,6 +107,7 @@ function startGame() {
     console.log("quizElement:", quizElement)
     updateQuizElement(quizElement)
     updateTeamScore(teamName)
+    startTimer();
 }
 ipc.on('teamName',function(event, name){
     console.log("Team Name:", name)
