@@ -17,7 +17,7 @@ var gameTimer
 
 function displayAllAnsweredElements(teamName){
     var answeredElements = teamQuiz.getAllAnsweredElements(teamName)
-    answerArea.innerHTML=""
+    answerArea.innerHTML="<h1> Correctly Answered</h1>"
     _.forEach(answeredElements, function(element){
         var htmlStr = "<p>" + element.Name + "</p>"
         answerArea.innerHTML += htmlStr
@@ -26,10 +26,10 @@ function displayAllAnsweredElements(teamName){
 
 function getNextQuizElement(currentStatus){
     var teamName = teamLabel.innerHTML
-    var dispElement = document.getElementById("display_word").value
+    var dispElement = document.getElementById("display_word").innerText
     console.log(dispElement)
     console.log("Display Element:",dispElement)
-    document.getElementById("display_word").value = teamQuiz.getNextElement(teamName, dispElement, currentStatus)
+    document.getElementById("display_word").innerText = teamQuiz.getNextElement(teamName, dispElement, currentStatus)
     // if (!document.getElementById("display_word").value){
     //     displayAllAnsweredElements(teamName)
     // }
@@ -71,7 +71,7 @@ function updateTeamScore(teamName) {
 
 function updateQuizElement(quizElement){
     var dispElement = document.getElementById("display_word")
-    dispElement.value= quizElement
+    dispElement.innerText = quizElement
 }
 
 function updateGameTimer(){
