@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Karthick-Somasundaresan/headsup#readme",
   "devDependencies": {
-    "electron": "6.0.0"
+    "electron": "15.5.5"
   },
   "dependencies": {
     "lodash": "^4.17.15"
